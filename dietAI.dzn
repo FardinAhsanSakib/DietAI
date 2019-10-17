@@ -1,0 +1,10 @@
+% Your age in years
+AgeYR = 23;
+% Your gender (Boy = 1, Girl = 2)
+GenderBoy1Girl2 = 1;
+% Your height in cm
+HeightCM =167;
+% Rate your daily activity from 1 to 5
+RateActivity1to5 = 1;
+% Your weight in KG
+WeightKG = 78;
